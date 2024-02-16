@@ -7,7 +7,6 @@ on:
 
 env:
   MONGODB_DB_NAME: gha-demo
-
 jobs:
   test:
     env:
